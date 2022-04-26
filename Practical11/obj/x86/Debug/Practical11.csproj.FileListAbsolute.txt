@@ -1,0 +1,8 @@
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical11\Practical11\bin\Debug\Practical11.exe
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical11\Practical11\bin\Debug\Practical11.pdb
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\DemoNotepad.notepadForm.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\DemoNotepad.replaceForm.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.csproj.GenerateResource.Cache
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.exe
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\Practical11\Practical11\obj\x86\Debug\Practical11.pdb
